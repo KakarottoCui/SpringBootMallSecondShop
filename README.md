@@ -1,7 +1,7 @@
 # SpringBootMallSecondShop
 基于JAVA SpringBoot和HTML校园二手商城系统设计
 
-演示视频链接：https://live.csdn.net/v/316567
+演示视频链接：https://live.csdn.net/v/369498
 
 功能介绍：
 
